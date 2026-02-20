@@ -144,3 +144,8 @@ Your site is optimized for:
 
 Your website is now fully optimized for search engines! 🎉
 
+
+
+
+
+
